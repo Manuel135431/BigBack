@@ -1,4 +1,4 @@
-# bigback
+# BigBack
 
 Student Recipe and Meal Planner App
 
